@@ -1,0 +1,23 @@
+{
+    "discord": {
+        "token": "discordapp_token",
+        "id": "discordapp_id"
+    },
+    "applications_commands": {
+        "global": true,
+        "guild_id": ""
+    },
+    "database": {
+        "enabled": false,
+        "url": ""
+    },
+    "express": {
+        "port": 3000
+    },
+    "owners": [
+       "owner_id_first",
+       "owner_id_second"
+    ],
+    "add": "adding_sub",
+    "remove": "removeing_sub"
+}
