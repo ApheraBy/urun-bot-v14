@@ -1,1 +1,3 @@
-# -r-n-botv14
+Botun Detaylı Kurulumu Ve tanımı Discord Adresimizde ;
+
+discord.gg/altyapilar
